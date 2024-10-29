@@ -5,5 +5,5 @@
  * @author aryen
  *
  */
-module ContaBanco {
+module Projetos {
 }
